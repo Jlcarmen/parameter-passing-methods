@@ -2,7 +2,7 @@ Sure! Here's the full README text that you can copy and paste:
 
 ---
 
-# README: inventory\_Carmen.py
+# inventory\_Carmen.py
 
 ## Overview
 
